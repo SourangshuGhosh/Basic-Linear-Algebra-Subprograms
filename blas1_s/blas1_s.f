@@ -102,11 +102,11 @@ c    This routine uses unrolled loops for increment equal to one.
 c
 c  Modified:
 c
-c    07 July 2007
+c    by Sourangshu Ghosh
 c
 c  Author:
 c
-c    Charles Lawson, Richard Hanson, David Kincaid, Fred Krogh
+c    Sourangshu Ghosh
 c
 c  Reference:
 c
@@ -194,11 +194,11 @@ c    This routine uses unrolled loop for increments equal to one.
 c
 c  Modified:
 c
-c    07 July 2007
+c    by Sourangshu Ghosh
 c
 c  Author:
 c
-c    Charles Lawson, Richard Hanson, David Kincaid, Fred Krogh
+c    Sourangshu Ghosh
 c
 c  Reference:
 c
@@ -293,11 +293,11 @@ c    This routine uses unrolled loops for increments equal to 1.
 c
 c  Modified:
 c
-c    07 July 2007
+c   By  Sourangshu Ghosh
 c
 c  Author:
 c
-c    Charles Lawson, Richard Hanson, David Kincaid, Fred Krogh
+c    Sourangshu Ghosh
 c
 c  Reference:
 c
@@ -387,11 +387,11 @@ c    This routine uses unrolled loops for increments equal to one.
 c
 c  Modified:
 c
-c    07 July 2007
+c    By Sourangshu Ghosh
 c
 c  Author:
 c
-c    Charles Lawson, Richard Hanson, David Kincaid, Fred Krogh
+c    Sourangshu Ghosh
 c
 c  Reference:
 c
@@ -604,11 +604,11 @@ c    This routine uses single precision real arithmetic.
 c
 c  Modified:
 c
-c    07 July 2007
+c    By Sourangshu Ghosh
 c
 c  Author:
 c
-c    Sven Hammarling
+c    Sourangshu Ghosh
 c
 c  Reference:
 c
@@ -686,11 +686,11 @@ c    This routine uses single precision real arithmetic.
 c
 c  Modified:
 c
-c    07 July 2007
+c    By Sourangshu Ghosh
 c
 c  Author:
 c
-c    Charles Lawson, Richard Hanson, David Kincaid, Fred Krogh
+c    Sourangshu Ghosh
 c
 c  Reference:
 c
@@ -795,11 +795,11 @@ c    if abs ( Z ) > 1, set C = 1/ Z and S = sqrt ( 1 - C * C );
 c
 c  Modified:
 c
-c    07 July 2007
+c    By Sourangshu Ghosh
 c
 c  Author:
 c
-c    Charles Lawson, Richard Hanson, David Kincaid, Fred Krogh
+c    Sourangshu Ghosh
 c
 c  Reference:
 c
