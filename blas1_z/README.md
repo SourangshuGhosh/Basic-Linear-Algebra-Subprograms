@@ -10,6 +10,10 @@ The BLAS are a small core library of linear algebra utilities, which can be high
 ## Licensing:
 The computer code and data files described and made available on this web page are distributed under the MIT license.
 
+## Author:
+
+Sourangshu Ghosh
+
 ## Reference:
 1.Thomas Coleman, Charles vanLoan,
 Handbook for Matrix Computations,
