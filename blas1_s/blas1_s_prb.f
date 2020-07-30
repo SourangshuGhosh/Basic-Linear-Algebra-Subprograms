@@ -10,15 +10,15 @@ c    BLAS1_S_PRB tests the BLAS1_S library.
 c
 c  Licensing:
 c
-c    This code is distributed under the GNU LGPL license.
+c    This code is distributed under the MIT license by Sourangshu Ghosh
 c
 c  Modified:
 c
-c    14 April 2006
+c    By Sourangshu Ghosh
 c
 c  Author:
 c
-c    John Burkardt
+c    Sourangshu Ghosh
 c
       implicit none
 
@@ -68,7 +68,7 @@ c    15 May 2006
 c
 c  Author:
 c
-c    John Burkardt
+c    Sourangshu Ghosh
 c
       implicit none
 
@@ -119,11 +119,11 @@ c    This code is distributed under the GNU LGPL license.
 c
 c  Modified:
 c
-c    15 May 2006
+c    Sourangshu Ghosh
 c
 c  Author:
 c
-c    John Burkardt
+c    Sourangshu Ghosh
 c
       implicit none
 
@@ -251,7 +251,7 @@ cc TEST03 tests SASUM.
 c
 c  Licensing:
 c
-c    This code is distributed under the GNU LGPL license.
+c    This code is distributed under the MIT license by Sourangshu Ghosh
 c
 c  Modified:
 c
