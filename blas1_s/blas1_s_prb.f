@@ -60,11 +60,11 @@ cc TEST01 tests ISAMAX.
 c
 c  Licensing:
 c
-c    This code is distributed under the GNU LGPL license.
+c    This code is distributed under the MIT license by Sourangshu Ghosh
 c
 c  Modified:
 c
-c    15 May 2006
+c   by Sourangshu Ghosh
 c
 c  Author:
 c
@@ -115,7 +115,7 @@ cc TEST02 tests ISAMAX, SAXPY and SSCAL.
 c
 c  Licensing:
 c
-c    This code is distributed under the GNU LGPL license.
+c    This code is distributed under the MIT license by Sourangshu Ghosh
 c
 c  Modified:
 c
@@ -255,11 +255,11 @@ c    This code is distributed under the MIT license by Sourangshu Ghosh
 c
 c  Modified:
 c
-c    22 February 2006
+c    by Sourangshu Ghosh
 c
 c  Author:
 c
-c    John Burkardt
+c    Sourangshu Ghosh
 c
       implicit none
 
@@ -331,15 +331,15 @@ cc TEST04 tests SAXPY.
 c
 c  Licensing:
 c
-c    This code is distributed under the GNU LGPL license.
+c    This code is distributed under the MIT license by Sourangshu Ghosh
 c
 c  Modified:
 c
-c    22 February 2006
+c    by Sourangshu Ghosh
 c
 c  Author:
 c
-c    John Burkardt
+c    Sourangshu Ghosh
 c
       implicit none
 
