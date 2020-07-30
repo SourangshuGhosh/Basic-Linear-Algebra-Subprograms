@@ -10,15 +10,15 @@ c    BLAS0_PRB tests the BLAS0 library.
 c
 c  Licensing:
 c
-c    This code is distributed under the GNU LGPL license. 
+c    This code is distributed under the MIT  license. 
 c
 c  Modified:
 c
-c    01 March 2017
+c    by Sourangshu Ghosh
 c
 c  Author:
 c
-c    John Burkardt
+c    Sourangshu Ghosh
 c
       implicit none
 
@@ -52,15 +52,15 @@ cc DMACH_TEST tests DMACH.
 c
 c  Licensing:
 c
-c    This code is distributed under the GNU LGPL license.
+c    This code is distributed under the MIT license.
 c
 c  Modified:
 c
-c    21 February 2006
+c    by Sourangshu Ghosh
 c
 c  Author:
 c
-c    John Burkardt
+c    Sourangshu Ghosh
 c
       implicit none
 
@@ -86,15 +86,15 @@ cc TEST01 tests R4_ABS.
 c
 c  Licensing:
 c
-c    This code is distributed under the GNU LGPL license. 
+c    This code is distributed under the MIT license. 
 c
 c  Modified:
 c
-c    26 March 2014
+c    by Sourangshu Ghosh
 c
 c  Author:
 c
-c    John Burkardt
+c    Sourangshu Ghosh
 c
       implicit none
 
@@ -134,15 +134,15 @@ cc TEST015 tests R4_SIGN.
 c
 c  Licensing:
 c
-c    This code is distributed under the GNU LGPL license.
+c    This code is distributed under the MIT  license.
 c
 c  Modified:
 c
-c    26 March 2014
+c    by Sourangshu Ghosh
 c
 c  Author:
 c
-c    John Burkardt
+c    Sourangshu Ghosh
 c
       implicit none
 
@@ -179,15 +179,15 @@ cc TEST02 tests R8_ABS.
 c
 c  Licensing:
 c
-c    This code is distributed under the GNU LGPL license.
+c    This code is distributed under the MIT license by Sourangshu Ghosh
 c
 c  Modified:
 c
-c    26 March 2014
+c    by Sourangshu Ghosh
 c
 c  Author:
 c
-c    John Burkardt
+c    Sourangshu Ghosh
 c
       implicit none
 
@@ -229,15 +229,15 @@ cc TEST03 tests R8_SIGN.
 c
 c  Licensing:
 c
-c    This code is distributed under the GNU LGPL license.
+c    This code is distributed under the MIT license.
 c
 c  Modified:
 c
-c    26 March 2014
+c    by Sourangshu Ghosh
 c
 c  Author:
 c
-c    John Burkardt
+c    Sourangshu Ghosh
 c
       implicit none
 
