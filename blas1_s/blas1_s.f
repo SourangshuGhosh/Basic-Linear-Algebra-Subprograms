@@ -10,11 +10,11 @@ c    This routine uses single precision real arithmetic.
 c
 c  Modified:
 c
-c    25 October 2008
+c    By Sourangshu Ghosh
 c
 c  Author:
 c
-c    Charles Lawson, Richard Hanson, David Kincaid, Fred Krogh
+c    Sourangshu Ghosh
 c
 c  Reference:
 c
