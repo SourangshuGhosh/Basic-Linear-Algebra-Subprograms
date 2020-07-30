@@ -9,6 +9,10 @@ The BLAS are a small core library of linear algebra utilities, which can be high
 ## Licensing:
 The computer code and data files described and made available on this web page are distributed under the MIT license.
 
+## Author:
+
+Sourangshu Ghosh
+
 ## Reference:
 1.Edward Anderson, Zhaojun Bai, Christian Bischof, Susan Blackford, James Demmel, Jack Dongarra, Jeremy Du Croz, Anne Greenbaum, Sven Hammarling, Alan McKenney, Danny Sorensen,
 LAPACK User's Guide,
