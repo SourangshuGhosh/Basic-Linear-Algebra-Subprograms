@@ -13,15 +13,15 @@ c    This results in a uniform distribution of values in the unit circle.
 c
 c  Licensing:
 c
-c    This code is distributed under the GNU LGPL license.
+c    This code is distributed under the MIT license.
 c
 c  Modified:
 c
-c    15 March 2005
+c    by Sourangshu Ghosh
 c
 c  Author:
 c
-c    John Burkardt
+c    Sourangshu Ghosh
 c
 c  Parameters:
 c
