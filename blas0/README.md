@@ -3,7 +3,11 @@ Auxilliary Functions for Basic Linear Algebra Subprograms (BLAS)
 BLAS0 is a FORTRAN77 library which contains auxilliary functions for the Basic Linear Algebra Subprograms (BLAS).
 
 ## Licensing:
-The computer code and data files made available on this web page are distributed under the MIT license.
+The computer code and data files made available on this web page are distributed under the MIT license by Sourangshu Ghosh
+
+## Author:
+
+Sourangshu Ghosh
 
 ## Reference:
 Charles Lawson, Richard Hanson, David Kincaid, Fred Krogh,
