@@ -121,11 +121,7 @@ c
 c
 c  Level 2 Blas routine.
 c
-c  -- Written on 22-October-1986.
-c     Jack Dongarra, Argonne National Lab.
-c     Jeremy Du Croz, Nag Central Office.
-c     Sven Hammarling, Nag Central Office.
-c     Richard Hanson, Sandia National Labs.
+c  -- Written by Sourangshu Ghosh
 c
 c
 c     .. Parameters ..
@@ -416,11 +412,7 @@ c
 c
 c  Level 2 Blas routine.
 c
-c  -- Written on 22-October-1986.
-c     Jack Dongarra, Argonne National Lab.
-c     Jeremy Du Croz, Nag Central Office.
-c     Sven Hammarling, Nag Central Office.
-c     Richard Hanson, Sandia National Labs.
+c  -- Written by Sourangshu Ghosh
 c
 c
 c     .. Parameters ..
@@ -674,11 +666,7 @@ c
 c
 c  Level 2 Blas routine.
 c
-c  -- Written on 22-October-1986.
-c     Jack Dongarra, Argonne National Lab.
-c     Jeremy Du Croz, Nag Central Office.
-c     Sven Hammarling, Nag Central Office.
-c     Richard Hanson, Sandia National Labs.
+c  -- Written by Sourangshu Ghosh
 c
 c
 c     .. Parameters ..
@@ -831,11 +819,7 @@ c
 c
 c  Level 2 Blas routine.
 c
-c  -- Written on 22-October-1986.
-c     Jack Dongarra, Argonne National Lab.
-c     Jeremy Du Croz, Nag Central Office.
-c     Sven Hammarling, Nag Central Office.
-c     Richard Hanson, Sandia National Labs.
+c  -- Written by Sourangshu Ghosh
 c
 c
 c     .. Parameters ..
@@ -1042,11 +1026,7 @@ c
 c
 c  Level 2 Blas routine.
 c
-c  -- Written on 22-October-1986.
-c     Jack Dongarra, Argonne National Lab.
-c     Jeremy Du Croz, Nag Central Office.
-c     Sven Hammarling, Nag Central Office.
-c     Richard Hanson, Sandia National Labs.
+c  -- Written by Sourangshu Ghosh
 c
 c
 c     .. Parameters ..
@@ -1320,11 +1300,7 @@ c
 c
 c  Level 2 Blas routine.
 c
-c  -- Written on 22-October-1986.
-c     Jack Dongarra, Argonne National Lab.
-c     Jeremy Du Croz, Nag Central Office.
-c     Sven Hammarling, Nag Central Office.
-c     Richard Hanson, Sandia National Labs.
+c  -- Written by Sourangshu Ghosh
 c
 c
 c     .. Parameters ..
@@ -1584,11 +1560,7 @@ c
 c
 c  Level 2 Blas routine.
 c
-c  -- Written on 22-October-1986.
-c     Jack Dongarra, Argonne National Lab.
-c     Jeremy Du Croz, Nag Central Office.
-c     Sven Hammarling, Nag Central Office.
-c     Richard Hanson, Sandia National Labs.
+c  -- Written by Sourangshu Ghosh
 c
 c
 c     .. Parameters ..
@@ -1822,11 +1794,7 @@ c
 c
 c  Level 2 Blas routine.
 c
-c  -- Written on 22-October-1986.
-c     Jack Dongarra, Argonne National Lab.
-c     Jeremy Du Croz, Nag Central Office.
-c     Sven Hammarling, Nag Central Office.
-c     Richard Hanson, Sandia National Labs.
+c  -- Written by Sourangshu Ghosh
 c
 c
 c     .. Parameters ..
@@ -2043,11 +2011,7 @@ c
 c
 c  Level 2 Blas routine.
 c
-c  -- Written on 22-October-1986.
-c     Jack Dongarra, Argonne National Lab.
-c     Jeremy Du Croz, Nag Central Office.
-c     Sven Hammarling, Nag Central Office.
-c     Richard Hanson, Sandia National Labs.
+c  -- Written by Sourangshu Ghosh
 c
 c
 c     .. Parameters ..
@@ -2312,11 +2276,7 @@ c
 c
 c  Level 2 Blas routine.
 c
-c  -- Written on 22-October-1986.
-c     Jack Dongarra, Argonne National Lab.
-c     Jeremy Du Croz, Nag Central Office.
-c     Sven Hammarling, Nag Central Office.
-c     Richard Hanson, Sandia National Labs.
+c  -- Written by Sourangshu Ghosh
 c
 c
 c     .. Parameters ..
@@ -2552,11 +2512,7 @@ c
 c
 c  Level 2 Blas routine.
 c
-c  -- Written on 22-October-1986.
-c     Jack Dongarra, Argonne National Lab.
-c     Jeremy Du Croz, Nag Central Office.
-c     Sven Hammarling, Nag Central Office.
-c     Richard Hanson, Sandia National Labs.
+c  -- Written by Sourangshu Ghosh
 c
 c
 c     .. Parameters ..
@@ -2820,11 +2776,7 @@ c
 c
 c  Level 2 Blas routine.
 c
-c  -- Written on 22-October-1986.
-c     Jack Dongarra, Argonne National Lab.
-c     Jeremy Du Croz, Nag Central Office.
-c     Sven Hammarling, Nag Central Office.
-c     Richard Hanson, Sandia National Labs.
+c  -- Written by Sourangshu Ghosh
 c
 c
 c     .. Parameters ..
@@ -3201,11 +3153,7 @@ c
 c
 c  Level 2 Blas routine.
 c
-c  -- Written on 22-October-1986.
-c     Jack Dongarra, Argonne National Lab.
-c     Jeremy Du Croz, Nag Central Office.
-c     Sven Hammarling, Nag Central Office.
-c     Richard Hanson, Sandia National Labs.
+c  -- Written by Sourangshu Ghosh
 c
 c
 c     .. Parameters ..
@@ -3538,11 +3486,7 @@ c
 c
 c  Level 2 Blas routine.
 c
-c  -- Written on 22-October-1986.
-c     Jack Dongarra, Argonne National Lab.
-c     Jeremy Du Croz, Nag Central Office.
-c     Sven Hammarling, Nag Central Office.
-c     Richard Hanson, Sandia National Labs.
+c  -- Written by Sourangshu Ghosh
 c
 c
 c     .. Parameters ..
@@ -3879,11 +3823,7 @@ c
 c
 c  Level 2 Blas routine.
 c
-c  -- Written on 22-October-1986.
-c     Jack Dongarra, Argonne National Lab.
-c     Jeremy Du Croz, Nag Central Office.
-c     Sven Hammarling, Nag Central Office.
-c     Richard Hanson, Sandia National Labs.
+c  -- Written by Sourangshu Ghosh
 c
 c
 c     .. Parameters ..
@@ -4220,11 +4160,7 @@ c
 c
 c  Level 2 Blas routine.
 c
-c  -- Written on 22-October-1986.
-c     Jack Dongarra, Argonne National Lab.
-c     Jeremy Du Croz, Nag Central Office.
-c     Sven Hammarling, Nag Central Office.
-c     Richard Hanson, Sandia National Labs.
+c  -- Written by Sourangshu Ghosh
 c
 c
 c     .. Parameters ..
@@ -4544,11 +4480,7 @@ c
 c
 c  Level 2 Blas routine.
 c
-c  -- Written on 22-October-1986.
-c     Jack Dongarra, Argonne National Lab.
-c     Jeremy Du Croz, Nag Central Office.
-c     Sven Hammarling, Nag Central Office.
-c     Richard Hanson, Sandia National Labs.
+c  -- Written by Sourangshu Ghosh
 c
 c
 c     .. Parameters ..
