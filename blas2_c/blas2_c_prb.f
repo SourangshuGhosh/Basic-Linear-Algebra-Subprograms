@@ -18,7 +18,11 @@ c    17 January 2014
 c
 c  Author:
 c
-c    John Burkardt
+c    Sourangshu Ghosh
+c
+c  License:
+c  
+c  Released under MIT License by Sourangshu Ghosh
 c
       implicit none
 
@@ -56,7 +60,11 @@ c    17 January 2014
 c
 c  Author:
 c
-c    John Burkardt
+c    Sourangshu Ghosh
+c
+c  License:
+c  
+c  Released under MIT License by Sourangshu Ghosh
 c
       implicit none
 
